@@ -1,4 +1,4 @@
-# 10Alytics Business Looker Studio Course
+#  Looker Studio Course
 
 This repository documents the **10Alytics Business Looker Studio Course**, a structured learning program designed to equip learners with practical **data visualization and storytelling skills** using **Google Looker Studio**.  
 The course blends **conceptual learning** with **real-world projects**, helping participants move from foundational understanding to building **client-ready dashboards** for business analytics.

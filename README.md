@@ -6,7 +6,6 @@ The course blends **conceptual learning** with **real-world projects**, helping 
 🎥 **Introduction to Course:** [👉 Click here to view the video](https://drive.google.com/drive/folders/1PLLOl9qcAwhV131-0AhW2SqAoSIMX27E?usp=drive_link)
 
 🎥 **Case Study Walkthrough:** [👉 Click here to view the video](https://drive.google.com/drive/folders/1PLLOl9qcAwhV131-0AhW2SqAoSIMX27E?usp=drive_link)
----
 
 ## 🎯 Course Overview
 

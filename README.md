@@ -4,6 +4,7 @@ This repository documents the **10Alytics Business Looker Studio Course**, a str
 The course blends **conceptual learning** with **real-world projects**, helping participants move from foundational understanding to building **client-ready dashboards** for business analytics.
 
 🎥 **Introduction to Course:** [👉 Click here to view the video](https://drive.google.com/drive/folders/1PLLOl9qcAwhV131-0AhW2SqAoSIMX27E?usp=drive_link)
+
 🎥 **Case Study Walkthrough:** [👉 Click here to view the video](https://drive.google.com/drive/folders/1PLLOl9qcAwhV131-0AhW2SqAoSIMX27E?usp=drive_link)
 ---
 
